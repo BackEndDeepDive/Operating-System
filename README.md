@@ -13,7 +13,7 @@ Deep Dive into Operating System
 
 - **세미나**
     - 장우: [1주차 서론 연습문제](https://github.com/BackEndDeepDive/Operating-System/tree/choijangwoo/choijangwoo)
-    - 민우
+    - 민우: [컴퓨터 시스템 및 이중 모드](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-1)
     - 현재: [운영체제의 작동](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/1주차.%20운영체제의%20작동.md)
 
 ## Conventions
