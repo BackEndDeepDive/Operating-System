@@ -16,6 +16,15 @@ Deep Dive into Operating System
     - 민우: [컴퓨터 시스템 및 이중 모드](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-1)
     - 현재: [운영체제의 작동](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/1주차.%20운영체제의%20작동.md)
 
+#### 2주차(2025.06.09 ~ 2025.06.22)
+- **범위** 
+    - Ch.2 운영체제 구조 ~ Ch.3 프로세스
+
+- **세미나**
+    - 장우: 
+    - 민우
+    - 현재: 
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
