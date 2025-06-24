@@ -22,7 +22,7 @@ Deep Dive into Operating System
 
 - **세미나**
     - 장우: [프로세스의 상태 전이](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch2)
-    - 민우
+    - 민우: [프로세스](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-2)
     - 현재: [운영체제부터 프로그램이 실행되기까지](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/2주차.%20운영체제부터%20프로그램이%20실행되기까지.md)
 
 ## Conventions
