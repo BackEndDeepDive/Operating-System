@@ -22,7 +22,7 @@ Deep Dive into Operating System
 
 - **세미나**
     - 장우: [프로세스의 상태 전이](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch2)
-    - 민우
+    - 민우: [프로세스](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-2)
     - 현재: 
 
 ## Conventions
