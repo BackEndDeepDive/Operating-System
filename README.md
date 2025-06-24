@@ -21,7 +21,7 @@ Deep Dive into Operating System
     - Ch.2 운영체제 구조 ~ Ch.3 프로세스
 
 - **세미나**
-    - 장우: 
+    - 장우: [프로세스의 상태 전이](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch2)
     - 민우
     - 현재: 
 
