@@ -23,7 +23,7 @@ Deep Dive into Operating System
 - **세미나**
     - 장우: [프로세스의 상태 전이](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch2)
     - 민우
-    - 현재: 
+    - 현재: [운영체제부터 프로그램이 실행되기까지](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/2주차.%20운영체제부터%20프로그램이%20실행되기까지.md)
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
