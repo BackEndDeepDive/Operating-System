@@ -25,6 +25,15 @@ Deep Dive into Operating System
     - 민우: [프로세스](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-2)
     - 현재: [운영체제부터 프로그램이 실행되기까지](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/2주차.%20운영체제부터%20프로그램이%20실행되기까지.md)
 
+#### 3주차(2025.06.23 ~ 2025.06.30)
+- **범위** 
+    - Ch.4 쓰레드 ~ Ch.5 CPU 스케쥴링
+
+- **세미나**
+    - 장우: 
+    - 민우: 
+    - 현재: 
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
