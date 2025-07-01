@@ -32,7 +32,7 @@ Deep Dive into Operating System
 - **세미나**
     - 장우: 
     - 민우: 
-    - 현재: 
+    - 현재: [실시간 CPU 스케줄링.md](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/3주차.%20실시간%20CPU%20스케줄링.md)
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
