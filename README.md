@@ -30,8 +30,8 @@ Deep Dive into Operating System
     - Ch.4 쓰레드 ~ Ch.5 CPU 스케쥴링
 
 - **세미나**
-    - 장우: 
-    - 민우: 
+    - 장우: [쓰레드란 무엇인가?](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch3)
+    - 민우: [스케줄링 알고리즘](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-3)
     - 현재: [실시간 CPU 스케줄링.md](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/3주차.%20실시간%20CPU%20스케줄링.md)
 
 ## Conventions
