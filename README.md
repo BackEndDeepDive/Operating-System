@@ -39,7 +39,7 @@ Deep Dive into Operating System
     - Ch.6 동기화 도구들 ~ Ch.8 교착상태
 
 - **세미나**
-    - 장우: 
+    - 장우: [멀티 쓰레드 환경에서의 데드락](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch4)
     - 민우: 
     - 현재: 
 
