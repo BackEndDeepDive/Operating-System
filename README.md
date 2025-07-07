@@ -41,7 +41,7 @@ Deep Dive into Operating System
 - **세미나**
     - 장우: [멀티 쓰레드 환경에서의 데드락](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch4)
     - 민우: [Java에서의 동기화](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-4)
-    - 현재: [Mutex, Semaphore 그리고 Java의 동기화 기법](4주차.%20Operating%20System%20Concepts%20-%20Mutex,%20Semaphore%20그리고%20Java의%20동기화%20기법.md)
+    - 현재: [Mutex, Semaphore 그리고 Java의 동기화 기법](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/4%EC%A3%BC%EC%B0%A8.%20Operating%20System%20Concepts%20-%20Mutex%2C%20Semaphore%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20Java%EC%9D%98%20%EB%8F%99%EA%B8%B0%ED%99%94%20%EA%B8%B0%EB%B2%95.md)
 
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
