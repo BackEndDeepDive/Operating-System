@@ -34,6 +34,15 @@ Deep Dive into Operating System
     - 민우: [스케줄링 알고리즘](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-3)
     - 현재: [실시간 CPU 스케줄링.md](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/3주차.%20실시간%20CPU%20스케줄링.md)
 
+#### 3주차(2025.07.01 ~ 2025.07.06)
+- **범위** 
+    - Ch.6 동기화 도구들 ~ Ch.8 교착상태
+
+- **세미나**
+    - 장우: 
+    - 민우: 
+    - 현재: 
+
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
     - 브랜치는 영어(소문자)로 설정
