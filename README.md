@@ -48,8 +48,8 @@ Deep Dive into Operating System
     - Ch.9 메인 메모리 ~ Ch.10 가상 메모리
 
 - **세미나**
-    - 장우: 
-    - 민우: 
+    - 장우: [가상 메모리와 메모리 압축](https://github.com/BackEndDeepDive/Operating-System/tree/main/choijangwoo/Ch5)
+    - 민우: [메인 메모리 배경](https://github.com/BackEndDeepDive/Operating-System/tree/main/YukMinWoo/week-5)
     - 현재: [페이지 교체 알고리즘](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/5주차.%20페이지%20교체%20알고리즘.md)
     
 ## Conventions
