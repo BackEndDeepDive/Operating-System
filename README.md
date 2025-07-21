@@ -50,7 +50,7 @@ Deep Dive into Operating System
 - **세미나**
     - 장우: 
     - 민우: 
-    - 현재: [5주차. 페이지 교체 알고리즘](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/5주차.%20페이지%20교체%20알고리즘.md)
+    - 현재: [페이지 교체 알고리즘](https://github.com/BackEndDeepDive/Operating-System/blob/main/kimhyeonjae/5주차.%20페이지%20교체%20알고리즘.md)
     
 ## Conventions
 1. 본인이 정리한 부분은 본인의 이름 브랜치에 기록한다.
